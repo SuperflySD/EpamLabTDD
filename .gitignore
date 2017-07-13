@@ -1,0 +1,23 @@
+target/
+build/
+.gradle/
+.idea/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/gradle/
+/.gradle/
+### need to correct gradle build on jenkins server ###
+!gradle/wrapper/gradle-wrapper.jar
+!/gradle/wrapper/gradle-wrapper.properties
