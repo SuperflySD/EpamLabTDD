@@ -2,6 +2,7 @@ target/
 build/
 .gradle/
 .idea/
+.gitignore
 
 ### STS ###
 .apt_generated
